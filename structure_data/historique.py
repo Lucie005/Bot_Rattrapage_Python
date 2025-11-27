@@ -1,5 +1,3 @@
-# data_structures/history.py
-
 class Node:
     """Un maillon de la liste chaînée."""
     def __init__(self, value):
