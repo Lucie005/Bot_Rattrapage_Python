@@ -1,5 +1,3 @@
-# structure_data/arbre.py
-
 class TreeNode:
     """Nœud d'un arbre de conversation."""
     def __init__(self, text, children=None, is_leaf=False):
@@ -101,7 +99,7 @@ def build_tree():
     ))
     automne.add_child(TreeNode(
         "Tu es extraverti(e) en automne ! \n"
-        "Activité conseillée : organiser une soirée jeux de société ou un marathon de films avec des amis.",
+        "Activité conseillée : organiser une soirée jeux de société ou un marathon Harry Potter avec des amis.",
         is_leaf=True
     ))
 
