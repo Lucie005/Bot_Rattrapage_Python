@@ -145,9 +145,7 @@ py start.py
 
 - Projet structuré de manière modulaire pour une meilleure lisibilité.
 - Commandes regroupées dans un dossier dédié.
-- Structures de données codées entièrement sans modules externes.
 - Sauvegarde automatique à l’arrêt du programme.
-- Commande d’aide personnalisée via un embed.
 
 ---------------------------------------------------------------------------
 
