@@ -177,6 +177,9 @@ py start.py
 
 ![Fichier JSON contenant les données](images/sauvegarde.png)
 
+### Nettoyage des commandes et réponses du Bot
+
+![Nettoyage](images/nettoyer.png)
 
 ## Choix d’implémentation
 
