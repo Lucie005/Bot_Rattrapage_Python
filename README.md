@@ -145,20 +145,29 @@ py start.py
 
 ### Interface de la commande !help
 
-<img width="916" height="334" alt="image" src="https://github.com/user-attachments/assets/003696fa-d0f5-483b-82a4-139521eabed7" />
+#### Commande Help
 
+![Commande Help](images/help.png)
 
 ### Gestion d’un compte utilisateur
 
+#### Créer le compte
+
 ![Création de compte](images/compte.png)
+
+#### Supprimer le compte
 
 ![Suppression de compte](images/supprimercompte.png)
 
 ### Arbre de discussion (commande !conseils)
 
+#### Démarrage de la discussion
+
 ![Conseils](images/conseils.png)
 
-![Speak about x](images/speeak.png)
+#### Check des sujet que contient l'arbre
+
+![Speak about x](images/speak.png)
 
 ### Historique
 
