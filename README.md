@@ -177,7 +177,7 @@ py start.py
 
 ![Nettoyage](images/nettoyer.png)
 
-### Sauvegarde du bot (positiond dans l'arbre, Compte...
+### Sauvegarde du bot (position dans l'arbre, Compte...)
 
 ![Fichier JSON contenant les données](images/sauvegarde.png)
 
