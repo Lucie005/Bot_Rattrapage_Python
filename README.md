@@ -173,13 +173,13 @@ py start.py
 
 ![Voir l'Historique et la dernière commande entrée](images/historique.png)
 
-### Sauvegarde du bot (positiond dans l'arbre, Compte...
-
-![Fichier JSON contenant les données](images/sauvegarde.png)
-
 ### Nettoyage des commandes et réponses du Bot
 
 ![Nettoyage](images/nettoyer.png)
+
+### Sauvegarde du bot (positiond dans l'arbre, Compte...
+
+![Fichier JSON contenant les données](images/sauvegarde.png)
 
 ## Choix d’implémentation
 
