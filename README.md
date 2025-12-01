@@ -141,6 +141,34 @@ py start.py
 
 ---
 
+## Aperçu des fonctionnalités
+
+### Interface de la commande !help
+
+<img width="916" height="334" alt="image" src="https://github.com/user-attachments/assets/003696fa-d0f5-483b-82a4-139521eabed7" />
+
+
+### Gestion d’un compte utilisateur
+
+![Création de compte](images/compte.png)
+
+![Suppression de compte](images/supprimercompte.png)
+
+### Arbre de discussion (commande !conseils)
+
+![Conseils](images/conseils.png)
+
+![Speak about x](images/speeak.png)
+
+### Historique
+
+![Voir l'Historique et la dernière commande entrée](images/historique.png)
+
+### Sauvegarde du bot (positiond dans l'arbre, Compte...
+
+![Fichier JSON contenant les données](images/sauvegarde.png)
+
+
 ## Choix d’implémentation
 
 - Projet structuré de manière modulaire pour une meilleure lisibilité.
